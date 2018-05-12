@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/512
     wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30954#The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-13
 gutenberg_issued: '2010-01-13'
 gutenberg_type: Text
 identifiers:
