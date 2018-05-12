@@ -1,0 +1,40 @@
+_repo: The-Works-of-Robert-Louis-Stevenson---Swanston-Edition-Vol.-13_30954
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Osbourne, Lloyd
+    aliases:
+    - Osbourne, Samuel Lloyd
+    - Osborne, Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30954'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Avarice -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+tableOfContents: The wrecker.
+title: The Works of Robert Louis Stevenson - Swanston Edition, Vol. 13
+url: http://www.gutenberg.org/ebooks/30954
